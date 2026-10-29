@@ -10,7 +10,7 @@
   
 | Player1 | Player2 | Result | Winner |
 | :-: | :-: | :-: | :-: |
-| Rock | Rock | Draw | No one. |
+| Rock | Rock | Draw | - |
 | Rock | Paper | Paper wraps rock. | Player1 |
 | Rock | Sissors | Rock crushes sissors. | Player1 |
 | Paper | Rock | Paper wraps rock. | Player1 |
