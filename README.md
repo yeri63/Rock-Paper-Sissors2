@@ -14,11 +14,11 @@
 | Rock | Paper | Paper wraps rock. | Player1 |
 | Rock | Sissors | Rock crushes sissors. | Player1 |
 | Paper | Rock | Paper wraps rock. | Player1 |
-| Paper | Paper | Draw | No one. |
+| Paper | Paper | Draw | - |
 | Paper | Sissors | Sissors cuts paper. | Player2 |
 | Sissors | Rock | Rock crushes sissors. | Player2 |
 | Sissors | Paper | Sissors cuts paper. | Player1 |
-| Sissors | Sissors | Draw | No one. |
+| Sissors | Sissors | Draw | - |
 </div>
 <p>So the next time you have some time on your hands, but no one to play this game with, consider playing this against the Halocode computer. You may be pleasantly surprised by the outcome.</p>
 
