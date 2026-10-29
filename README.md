@@ -8,16 +8,16 @@
 <p>Here's the game rules in case you've never played...</p>
 <div align="center">
   
-| Player 1 | Player 2 | Result | Winner |
+| Player-1 | Player-2 | Result | Winner |
 | :-: | :-: | :-: | :-: |
 | Rock | Rock | Draw | No one. |
-| Rock | Paper | Paper wraps rock. | Player 1 |
-| Rock | Sissors | Rock crushes sissors. | Player 1 |
-| Paper | Rock | Paper wraps rock. | Player 1 |
+| Rock | Paper | Paper wraps rock. | Player-1 |
+| Rock | Sissors | Rock crushes sissors. | Player-1 |
+| Paper | Rock | Paper wraps rock. | Player-1 |
 | Paper | Paper | Draw | No one. |
-| Paper | Sissors | Sissors cuts paper. | Player 2 |
-| Sissors | Rock | Rock crushes sissors. | Player 2 |
-| Sissors | Paper | Sissors cuts paper. | Player 1 |
+| Paper | Sissors | Sissors cuts paper. | Player-2 |
+| Sissors | Rock | Rock crushes sissors. | Player-2 |
+| Sissors | Paper | Sissors cuts paper. | Player-1 |
 | Sissors | Sissors | Draw | No one. |
 </div>
 <p>So the next time you have some time on your hands, but no one to play this game with, consider playing this against the Halocode computer. You may be pleasantly surprised by the outcome.</p>
